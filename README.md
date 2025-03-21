@@ -13,7 +13,7 @@
   Uploading test json to S3 just keep as manual step."
   
   
-##Set up your AWS account
+## Set up your AWS account
  - export AWS_ACCESS_KEY_ID="anaccesskey"
  - export AWS_SECRET_ACCESS_KEY="asecretkey"
 
