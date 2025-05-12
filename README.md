@@ -1,7 +1,6 @@
 # People Excellence Tasks
 
-## Competency Development
-
+## [Competency Development](https://github.com/davidtsolov/PeEx/tree/main/CompetencyDevelopment)
 1. Work with a mentor as a mentee (J)
 
 ## Configuration Management
