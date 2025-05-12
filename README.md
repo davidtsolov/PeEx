@@ -31,7 +31,7 @@
 
 1. Create a parent container image (J)
 
-## [Methodologies and Practices]()
+## [Methodologies and Practices](https://github.com/davidtsolov/PeEx/tree/main/MethodologiesPractices)
 
 ## [Cloud DB](https://github.com/davidtsolov/PeEx/tree/main/CloudDB)
 
